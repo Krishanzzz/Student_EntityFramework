@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EntityFramework.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "D:\\Dotnet\\SampleBlazorWAApp\\SampleBlazorWAApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="D:/Dotnet/SampleBlazorWAApp/SampleBlazorWAApp.csproj" />
+  <Project Path="EntityFramework.csproj" />
+</Solution>
